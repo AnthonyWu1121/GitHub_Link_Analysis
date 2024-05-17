@@ -1,0 +1,33 @@
+{
+    "name": "stable-diffusion-webui",
+    "id": 527591471,
+    "readme_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui/blob/master/README.md",
+    "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+    "stars": 130421,
+    "forks": 25058,
+    "description": "Stable Diffusion web UI",
+    "topics": [
+        "ai",
+        "ai-art",
+        "deep-learning",
+        "diffusion",
+        "gradio",
+        "image-generation",
+        "image2image",
+        "img2img",
+        "pytorch",
+        "stable-diffusion",
+        "text2image",
+        "torch",
+        "txt2img",
+        "unstable",
+        "upscaling",
+        "web"
+    ],
+    "star_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/stargazers",
+    "contrib_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/contributors",
+    "cur_star_page": 400,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 5,
+    "cur_contrib_fin": 1
+}

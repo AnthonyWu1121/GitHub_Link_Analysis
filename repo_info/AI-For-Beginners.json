@@ -1,0 +1,26 @@
+{
+    "name": "AI-For-Beginners",
+    "id": 344190478,
+    "readme_url": "https://github.com/microsoft/AI-For-Beginners/blob/master/README.md",
+    "full_name": "microsoft/AI-For-Beginners",
+    "stars": 31344,
+    "forks": 5056,
+    "description": "12 Weeks, 24 Lessons, AI for All!",
+    "topics": [
+        "ai",
+        "artificial-intelligence",
+        "cnn",
+        "computer-vision",
+        "deep-learning",
+        "gan",
+        "machine-learning",
+        "nlp",
+        "rnn"
+    ],
+    "star_url": "https://api.github.com/repos/microsoft/AI-For-Beginners/stargazers",
+    "contrib_url": "https://api.github.com/repos/microsoft/AI-For-Beginners/contributors",
+    "cur_star_page": 316,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Real-Time-Voice-Cloning",
+    "id": 188660663,
+    "readme_url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning/blob/master/README.md",
+    "full_name": "CorentinJ/Real-Time-Voice-Cloning",
+    "stars": 50870,
+    "forks": 8551,
+    "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "topics": [
+        "deep-learning",
+        "python",
+        "pytorch",
+        "tensorflow",
+        "tts",
+        "voice-cloning"
+    ],
+    "star_url": "https://api.github.com/repos/CorentinJ/Real-Time-Voice-Cloning/stargazers",
+    "contrib_url": "https://api.github.com/repos/CorentinJ/Real-Time-Voice-Cloning/contributors",
+    "cur_star_page": 400,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

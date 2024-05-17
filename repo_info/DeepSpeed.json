@@ -1,0 +1,30 @@
+{
+    "name": "DeepSpeed",
+    "id": 235860204,
+    "readme_url": "https://github.com/microsoft/DeepSpeed/blob/master/README.md",
+    "full_name": "microsoft/DeepSpeed",
+    "stars": 32847,
+    "forks": 3862,
+    "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+    "topics": [
+        "billion-parameters",
+        "compression",
+        "data-parallelism",
+        "deep-learning",
+        "gpu",
+        "inference",
+        "machine-learning",
+        "mixture-of-experts",
+        "model-parallelism",
+        "pipeline-parallelism",
+        "pytorch",
+        "trillion-parameters",
+        "zero"
+    ],
+    "star_url": "https://api.github.com/repos/microsoft/DeepSpeed/stargazers",
+    "contrib_url": "https://api.github.com/repos/microsoft/DeepSpeed/contributors",
+    "cur_star_page": 330,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 4,
+    "cur_contrib_fin": 1
+}

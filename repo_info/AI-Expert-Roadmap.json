@@ -1,0 +1,27 @@
+{
+    "name": "AI-Expert-Roadmap",
+    "id": 306977633,
+    "readme_url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap/blob/master/README.md",
+    "full_name": "AMAI-GmbH/AI-Expert-Roadmap",
+    "stars": 28449,
+    "forks": 2426,
+    "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+    "topics": [
+        "ai",
+        "ai-roadmap",
+        "artificial-intelligence",
+        "data-analysis",
+        "data-science",
+        "deep-learning",
+        "machine-learning",
+        "neural-network",
+        "roadmap",
+        "study-plan"
+    ],
+    "star_url": "https://api.github.com/repos/AMAI-GmbH/AI-Expert-Roadmap/stargazers",
+    "contrib_url": "https://api.github.com/repos/AMAI-GmbH/AI-Expert-Roadmap/contributors",
+    "cur_star_page": 285,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

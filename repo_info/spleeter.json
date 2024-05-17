@@ -1,0 +1,27 @@
+{
+    "name": "spleeter",
+    "id": 211124697,
+    "readme_url": "https://github.com/deezer/spleeter/blob/master/README.md",
+    "full_name": "deezer/spleeter",
+    "stars": 24959,
+    "forks": 2726,
+    "description": "Deezer source separation library including pretrained models.",
+    "topics": [
+        "audio-processing",
+        "bass",
+        "deep-learning",
+        "deezer",
+        "drums",
+        "model",
+        "pretrained-models",
+        "python",
+        "tensorflow",
+        "vocals"
+    ],
+    "star_url": "https://api.github.com/repos/deezer/spleeter/stargazers",
+    "contrib_url": "https://api.github.com/repos/deezer/spleeter/contributors",
+    "cur_star_page": 251,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

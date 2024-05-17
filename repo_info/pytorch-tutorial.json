@@ -1,0 +1,21 @@
+{
+    "name": "pytorch-tutorial",
+    "id": 84533158,
+    "readme_url": "https://github.com/yunjey/pytorch-tutorial/blob/master/README.md",
+    "full_name": "yunjey/pytorch-tutorial",
+    "stars": 29162,
+    "forks": 7974,
+    "description": "PyTorch Tutorial for Deep Learning Researchers",
+    "topics": [
+        "deep-learning",
+        "neural-networks",
+        "pytorch",
+        "pytorch-tutorial"
+    ],
+    "star_url": "https://api.github.com/repos/yunjey/pytorch-tutorial/stargazers",
+    "contrib_url": "https://api.github.com/repos/yunjey/pytorch-tutorial/contributors",
+    "cur_star_page": 292,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

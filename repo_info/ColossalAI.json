@@ -1,0 +1,29 @@
+{
+    "name": "ColossalAI",
+    "id": 422274596,
+    "readme_url": "https://github.com/hpcaitech/ColossalAI/blob/master/README.md",
+    "full_name": "hpcaitech/ColossalAI",
+    "stars": 37950,
+    "forks": 4246,
+    "description": "Making large AI models cheaper, faster and more accessible",
+    "topics": [
+        "ai",
+        "big-model",
+        "data-parallelism",
+        "deep-learning",
+        "distributed-computing",
+        "foundation-models",
+        "heterogeneous-training",
+        "hpc",
+        "inference",
+        "large-scale",
+        "model-parallelism",
+        "pipeline-parallelism"
+    ],
+    "star_url": "https://api.github.com/repos/hpcaitech/ColossalAI/stargazers",
+    "contrib_url": "https://api.github.com/repos/hpcaitech/ColossalAI/contributors",
+    "cur_star_page": 380,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 2,
+    "cur_contrib_fin": 1
+}

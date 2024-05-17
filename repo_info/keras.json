@@ -1,0 +1,25 @@
+{
+    "name": "keras",
+    "id": 33015583,
+    "readme_url": "https://github.com/keras-team/keras/blob/master/README.md",
+    "full_name": "keras-team/keras",
+    "stars": 60987,
+    "forks": 19345,
+    "description": "Deep Learning for humans",
+    "topics": [
+        "data-science",
+        "deep-learning",
+        "jax",
+        "machine-learning",
+        "neural-networks",
+        "python",
+        "pytorch",
+        "tensorflow"
+    ],
+    "star_url": "https://api.github.com/repos/keras-team/keras/stargazers",
+    "contrib_url": "https://api.github.com/repos/keras-team/keras/contributors",
+    "cur_star_page": 400,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 5,
+    "cur_contrib_fin": 1
+}

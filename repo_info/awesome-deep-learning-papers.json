@@ -1,0 +1,20 @@
+{
+    "name": "awesome-deep-learning-papers",
+    "id": 60325062,
+    "readme_url": "https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md",
+    "full_name": "terryum/awesome-deep-learning-papers",
+    "stars": 25140,
+    "forks": 4469,
+    "description": "The most cited deep learning papers",
+    "topics": [
+        "deep-learning",
+        "deep-neural-networks",
+        "machine-learning"
+    ],
+    "star_url": "https://api.github.com/repos/terryum/awesome-deep-learning-papers/stargazers",
+    "contrib_url": "https://api.github.com/repos/terryum/awesome-deep-learning-papers/contributors",
+    "cur_star_page": 252,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

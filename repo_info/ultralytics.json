@@ -1,0 +1,33 @@
+{
+    "name": "ultralytics",
+    "id": 535360445,
+    "readme_url": "https://github.com/ultralytics/ultralytics/blob/master/README.md",
+    "full_name": "ultralytics/ultralytics",
+    "stars": 23173,
+    "forks": 4619,
+    "description": "NEW - YOLOv8 \ud83d\ude80 in PyTorch > ONNX > OpenVINO > CoreML > TFLite",
+    "topics": [
+        "deep-learning",
+        "hub",
+        "image-classification",
+        "instance-segmentation",
+        "machine-learning",
+        "obb",
+        "object-detection",
+        "pose",
+        "pytorch",
+        "tracking",
+        "ultralytics",
+        "yolo",
+        "yolo-world",
+        "yolov3",
+        "yolov5",
+        "yolov8"
+    ],
+    "star_url": "https://api.github.com/repos/ultralytics/ultralytics/stargazers",
+    "contrib_url": "https://api.github.com/repos/ultralytics/ultralytics/contributors",
+    "cur_star_page": 235,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 2,
+    "cur_contrib_fin": 1
+}

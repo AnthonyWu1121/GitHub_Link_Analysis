@@ -1,0 +1,22 @@
+{
+    "name": "Prompt-Engineering-Guide",
+    "id": 579082810,
+    "readme_url": "https://github.com/dair-ai/Prompt-Engineering-Guide/blob/master/README.md",
+    "full_name": "dair-ai/Prompt-Engineering-Guide",
+    "stars": 44133,
+    "forks": 4189,
+    "description": "\ud83d\udc19 Guides, papers, lecture, notebooks and resources for prompt engineering",
+    "topics": [
+        "chatgpt",
+        "deep-learning",
+        "language-model",
+        "openai",
+        "prompt-engineering"
+    ],
+    "star_url": "https://api.github.com/repos/dair-ai/Prompt-Engineering-Guide/stargazers",
+    "contrib_url": "https://api.github.com/repos/dair-ai/Prompt-Engineering-Guide/contributors",
+    "cur_star_page": 400,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 2,
+    "cur_contrib_fin": 1
+}

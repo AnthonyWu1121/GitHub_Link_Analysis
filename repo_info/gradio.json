@@ -1,0 +1,32 @@
+{
+    "name": "gradio",
+    "id": 162405963,
+    "readme_url": "https://github.com/gradio-app/gradio/blob/master/README.md",
+    "full_name": "gradio-app/gradio",
+    "stars": 29115,
+    "forks": 2154,
+    "description": "Build and share delightful machine learning apps, all in Python. \ud83c\udf1f Star to support our work!",
+    "topics": [
+        "data-analysis",
+        "data-science",
+        "data-visualization",
+        "deep-learning",
+        "deploy",
+        "gradio",
+        "gradio-interface",
+        "hacktoberfest",
+        "interface",
+        "machine-learning",
+        "models",
+        "python",
+        "python-notebook",
+        "ui",
+        "ui-components"
+    ],
+    "star_url": "https://api.github.com/repos/gradio-app/gradio/stargazers",
+    "contrib_url": "https://api.github.com/repos/gradio-app/gradio/contributors",
+    "cur_star_page": 293,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 3,
+    "cur_contrib_fin": 1
+}

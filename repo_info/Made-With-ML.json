@@ -1,0 +1,30 @@
+{
+    "name": "Made-With-ML",
+    "id": 156157055,
+    "readme_url": "https://github.com/GokuMohandas/Made-With-ML/blob/master/README.md",
+    "full_name": "GokuMohandas/Made-With-ML",
+    "stars": 35726,
+    "forks": 5736,
+    "description": "Learn how to design, develop, deploy and iterate on production-grade ML applications.",
+    "topics": [
+        "data-engineering",
+        "data-quality",
+        "data-science",
+        "deep-learning",
+        "distributed-ml",
+        "distributed-training",
+        "llms",
+        "machine-learning",
+        "mlops",
+        "natural-language-processing",
+        "python",
+        "pytorch",
+        "ray"
+    ],
+    "star_url": "https://api.github.com/repos/GokuMohandas/Made-With-ML/stargazers",
+    "contrib_url": "https://api.github.com/repos/GokuMohandas/Made-With-ML/contributors",
+    "cur_star_page": 359,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

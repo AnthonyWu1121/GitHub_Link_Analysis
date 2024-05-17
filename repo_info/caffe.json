@@ -1,0 +1,20 @@
+{
+    "name": "caffe",
+    "id": 12791642,
+    "readme_url": "https://github.com/BVLC/caffe/blob/master/README.md",
+    "full_name": "BVLC/caffe",
+    "stars": 33881,
+    "forks": 18737,
+    "description": "Caffe: a fast open framework for deep learning.",
+    "topics": [
+        "deep-learning",
+        "machine-learning",
+        "vision"
+    ],
+    "star_url": "https://api.github.com/repos/BVLC/caffe/stargazers",
+    "contrib_url": "https://api.github.com/repos/BVLC/caffe/contributors",
+    "cur_star_page": 339,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 3,
+    "cur_contrib_fin": 1
+}

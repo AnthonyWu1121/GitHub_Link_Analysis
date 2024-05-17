@@ -1,0 +1,25 @@
+{
+    "name": "pytorch",
+    "id": 65600975,
+    "readme_url": "https://github.com/pytorch/pytorch/blob/master/README.md",
+    "full_name": "pytorch/pytorch",
+    "stars": 78180,
+    "forks": 21097,
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "topics": [
+        "autograd",
+        "deep-learning",
+        "gpu",
+        "machine-learning",
+        "neural-network",
+        "numpy",
+        "python",
+        "tensor"
+    ],
+    "star_url": "https://api.github.com/repos/pytorch/pytorch/stargazers",
+    "contrib_url": "https://api.github.com/repos/pytorch/pytorch/contributors",
+    "cur_star_page": 400,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 4,
+    "cur_contrib_fin": 1
+}

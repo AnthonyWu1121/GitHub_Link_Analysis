@@ -1,0 +1,27 @@
+{
+    "name": "DeepSpeech",
+    "id": 60273704,
+    "readme_url": "https://github.com/mozilla/DeepSpeech/blob/master/README.md",
+    "full_name": "mozilla/DeepSpeech",
+    "stars": 24346,
+    "forks": 3875,
+    "description": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
+    "topics": [
+        "deep-learning",
+        "deepspeech",
+        "embedded",
+        "machine-learning",
+        "neural-networks",
+        "offline",
+        "on-device",
+        "speech-recognition",
+        "speech-to-text",
+        "tensorflow"
+    ],
+    "star_url": "https://api.github.com/repos/mozilla/DeepSpeech/stargazers",
+    "contrib_url": "https://api.github.com/repos/mozilla/DeepSpeech/contributors",
+    "cur_star_page": 244,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 2,
+    "cur_contrib_fin": 1
+}

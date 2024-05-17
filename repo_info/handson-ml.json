@@ -1,0 +1,27 @@
+{
+    "name": "handson-ml",
+    "id": 51863547,
+    "readme_url": "https://github.com/ageron/handson-ml/blob/master/README.md",
+    "full_name": "ageron/handson-ml",
+    "stars": 25094,
+    "forks": 12925,
+    "description": "\u26d4\ufe0f DEPRECATED \u2013 See https://github.com/ageron/handson-ml3 instead.",
+    "topics": [
+        "deep-learning",
+        "deprecated",
+        "distributed",
+        "jupyter-notebook",
+        "machine-learning",
+        "ml",
+        "neural-network",
+        "python",
+        "scikit-learn",
+        "tensorflow"
+    ],
+    "star_url": "https://api.github.com/repos/ageron/handson-ml/stargazers",
+    "contrib_url": "https://api.github.com/repos/ageron/handson-ml/contributors",
+    "cur_star_page": 251,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 0
+}

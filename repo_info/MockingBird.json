@@ -1,0 +1,23 @@
+{
+    "name": "MockingBird",
+    "id": 393571599,
+    "readme_url": "https://github.com/babysor/MockingBird/blob/master/README.md",
+    "full_name": "babysor/MockingBird",
+    "stars": 33917,
+    "forks": 5095,
+    "description": "\ud83d\ude80AI\u62df\u58f0: 5\u79d2\u5185\u514b\u9686\u60a8\u7684\u58f0\u97f3\u5e76\u751f\u6210\u4efb\u610f\u8bed\u97f3\u5185\u5bb9 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "topics": [
+        "ai",
+        "deep-learning",
+        "pytorch",
+        "speech",
+        "text-to-speech",
+        "tts"
+    ],
+    "star_url": "https://api.github.com/repos/babysor/MockingBird/stargazers",
+    "contrib_url": "https://api.github.com/repos/babysor/MockingBird/contributors",
+    "cur_star_page": 340,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

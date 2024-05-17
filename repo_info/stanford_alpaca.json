@@ -1,0 +1,20 @@
+{
+    "name": "stanford_alpaca",
+    "id": 612427246,
+    "readme_url": "https://github.com/tatsu-lab/stanford_alpaca/blob/master/README.md",
+    "full_name": "tatsu-lab/stanford_alpaca",
+    "stars": 28857,
+    "forks": 3985,
+    "description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+    "topics": [
+        "deep-learning",
+        "instruction-following",
+        "language-model"
+    ],
+    "star_url": "https://api.github.com/repos/tatsu-lab/stanford_alpaca/stargazers",
+    "contrib_url": "https://api.github.com/repos/tatsu-lab/stanford_alpaca/contributors",
+    "cur_star_page": 289,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

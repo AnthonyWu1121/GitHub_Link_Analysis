@@ -1,0 +1,32 @@
+{
+    "name": "DeepFaceLab",
+    "id": 136026789,
+    "readme_url": "https://github.com/iperov/DeepFaceLab/blob/master/README.md",
+    "full_name": "iperov/DeepFaceLab",
+    "stars": 45545,
+    "forks": 10203,
+    "description": "DeepFaceLab is the leading software for creating deepfakes.",
+    "topics": [
+        "arxiv",
+        "creating-deepfakes",
+        "deep-face-swap",
+        "deep-learning",
+        "deep-neural-networks",
+        "deepface",
+        "deepfacelab",
+        "deepfakes",
+        "deeplearning",
+        "face-swap",
+        "faceswap",
+        "fakeapp",
+        "machine-learning",
+        "neural-nets",
+        "neural-networks"
+    ],
+    "star_url": "https://api.github.com/repos/iperov/DeepFaceLab/stargazers",
+    "contrib_url": "https://api.github.com/repos/iperov/DeepFaceLab/contributors",
+    "cur_star_page": 400,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 0
+}

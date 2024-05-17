@@ -1,0 +1,25 @@
+{
+    "name": "fastai",
+    "id": 102973646,
+    "readme_url": "https://github.com/fastai/fastai/blob/master/README.md",
+    "full_name": "fastai/fastai",
+    "stars": 25651,
+    "forks": 7513,
+    "description": "The fastai deep learning library",
+    "topics": [
+        "colab",
+        "deep-learning",
+        "fastai",
+        "gpu",
+        "machine-learning",
+        "notebooks",
+        "python",
+        "pytorch"
+    ],
+    "star_url": "https://api.github.com/repos/fastai/fastai/stargazers",
+    "contrib_url": "https://api.github.com/repos/fastai/fastai/contributors",
+    "cur_star_page": 257,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 3,
+    "cur_contrib_fin": 1
+}

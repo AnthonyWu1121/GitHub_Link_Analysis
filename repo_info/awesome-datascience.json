@@ -1,0 +1,27 @@
+{
+    "name": "awesome-datascience",
+    "id": 21515044,
+    "readme_url": "https://github.com/academic/awesome-datascience/blob/master/README.md",
+    "full_name": "academic/awesome-datascience",
+    "stars": 23812,
+    "forks": 5752,
+    "description": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
+    "topics": [
+        "analytics",
+        "awesome-list",
+        "data-mining",
+        "data-science",
+        "data-scientists",
+        "data-visualization",
+        "deep-learning",
+        "hacktoberfest",
+        "machine-learning",
+        "science"
+    ],
+    "star_url": "https://api.github.com/repos/academic/awesome-datascience/stargazers",
+    "contrib_url": "https://api.github.com/repos/academic/awesome-datascience/contributors",
+    "cur_star_page": 239,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 0
+}

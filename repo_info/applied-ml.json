@@ -1,0 +1,31 @@
+{
+    "name": "applied-ml",
+    "id": 277168957,
+    "readme_url": "https://github.com/eugeneyan/applied-ml/blob/master/README.md",
+    "full_name": "eugeneyan/applied-ml",
+    "stars": 26017,
+    "forks": 3541,
+    "description": "\ud83d\udcda Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "topics": [
+        "applied-data-science",
+        "applied-machine-learning",
+        "computer-vision",
+        "data-discovery",
+        "data-engineering",
+        "data-quality",
+        "data-science",
+        "deep-learning",
+        "machine-learning",
+        "natural-language-processing",
+        "production",
+        "recsys",
+        "reinforcement-learning",
+        "search"
+    ],
+    "star_url": "https://api.github.com/repos/eugeneyan/applied-ml/stargazers",
+    "contrib_url": "https://api.github.com/repos/eugeneyan/applied-ml/contributors",
+    "cur_star_page": 261,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

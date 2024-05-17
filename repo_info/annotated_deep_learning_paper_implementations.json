@@ -1,0 +1,29 @@
+{
+    "name": "annotated_deep_learning_paper_implementations",
+    "id": 290091948,
+    "readme_url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations/blob/master/README.md",
+    "full_name": "labmlai/annotated_deep_learning_paper_implementations",
+    "stars": 48588,
+    "forks": 5052,
+    "description": "\ud83e\uddd1\u200d\ud83c\udfeb 60 Implementations/tutorials of deep learning papers with side-by-side notes \ud83d\udcdd; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), \ud83c\udfae reinforcement learning (ppo, dqn), capsnet, distillation, ... \ud83e\udde0",
+    "topics": [
+        "attention",
+        "deep-learning",
+        "deep-learning-tutorial",
+        "gan",
+        "literate-programming",
+        "machine-learning",
+        "neural-networks",
+        "optimizers",
+        "pytorch",
+        "reinforcement-learning",
+        "transformer",
+        "transformers"
+    ],
+    "star_url": "https://api.github.com/repos/labmlai/annotated_deep_learning_paper_implementations/stargazers",
+    "contrib_url": "https://api.github.com/repos/labmlai/annotated_deep_learning_paper_implementations/contributors",
+    "cur_star_page": 400,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

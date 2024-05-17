@@ -1,0 +1,22 @@
+{
+    "name": "opencv",
+    "id": 5108051,
+    "readme_url": "https://github.com/opencv/opencv/blob/master/README.md",
+    "full_name": "opencv/opencv",
+    "stars": 75749,
+    "forks": 55608,
+    "description": "Open Source Computer Vision Library",
+    "topics": [
+        "c-plus-plus",
+        "computer-vision",
+        "deep-learning",
+        "image-processing",
+        "opencv"
+    ],
+    "star_url": "https://api.github.com/repos/opencv/opencv/stargazers",
+    "contrib_url": "https://api.github.com/repos/opencv/opencv/contributors",
+    "cur_star_page": 400,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 3,
+    "cur_contrib_fin": 1
+}

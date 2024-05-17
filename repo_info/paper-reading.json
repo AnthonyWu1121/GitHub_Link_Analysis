@@ -1,0 +1,20 @@
+{
+    "name": "paper-reading",
+    "id": 419991646,
+    "readme_url": "https://github.com/mli/paper-reading/blob/master/README.md",
+    "full_name": "mli/paper-reading",
+    "stars": 24318,
+    "forks": 2284,
+    "description": "\u6df1\u5ea6\u5b66\u4e60\u7ecf\u5178\u3001\u65b0\u8bba\u6587\u9010\u6bb5\u7cbe\u8bfb",
+    "topics": [
+        "deep-learning",
+        "paper",
+        "reading-list"
+    ],
+    "star_url": "https://api.github.com/repos/mli/paper-reading/stargazers",
+    "contrib_url": "https://api.github.com/repos/mli/paper-reading/contributors",
+    "cur_star_page": 244,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

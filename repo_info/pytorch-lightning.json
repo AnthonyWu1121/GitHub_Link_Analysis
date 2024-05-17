@@ -1,0 +1,24 @@
+{
+    "name": "pytorch-lightning",
+    "id": 178626720,
+    "readme_url": "https://github.com/Lightning-AI/pytorch-lightning/blob/master/README.md",
+    "full_name": "Lightning-AI/pytorch-lightning",
+    "stars": 26990,
+    "forks": 3256,
+    "description": "Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.",
+    "topics": [
+        "ai",
+        "artificial-intelligence",
+        "data-science",
+        "deep-learning",
+        "machine-learning",
+        "python",
+        "pytorch"
+    ],
+    "star_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/stargazers",
+    "contrib_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/contributors",
+    "cur_star_page": 271,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 5,
+    "cur_contrib_fin": 1
+}

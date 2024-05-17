@@ -1,0 +1,23 @@
+{
+    "name": "TensorFlow-Examples",
+    "id": 45986162,
+    "readme_url": "https://github.com/aymericdamien/TensorFlow-Examples/blob/master/README.md",
+    "full_name": "aymericdamien/TensorFlow-Examples",
+    "stars": 43226,
+    "forks": 14994,
+    "description": "TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)",
+    "topics": [
+        "deep-learning",
+        "examples",
+        "machine-learning",
+        "python",
+        "tensorflow",
+        "tutorial"
+    ],
+    "star_url": "https://api.github.com/repos/aymericdamien/TensorFlow-Examples/stargazers",
+    "contrib_url": "https://api.github.com/repos/aymericdamien/TensorFlow-Examples/contributors",
+    "cur_star_page": 400,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

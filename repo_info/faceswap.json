@@ -1,0 +1,31 @@
+{
+    "name": "faceswap",
+    "id": 114747226,
+    "readme_url": "https://github.com/deepfakes/faceswap/blob/master/README.md",
+    "full_name": "deepfakes/faceswap",
+    "stars": 49314,
+    "forks": 12915,
+    "description": "Deepfakes Software For All",
+    "topics": [
+        "deep-face-swap",
+        "deep-learning",
+        "deep-neural-networks",
+        "deepface",
+        "deepfakes",
+        "deeplearning",
+        "face-swap",
+        "faceswap",
+        "fakeapp",
+        "machine-learning",
+        "myfakeapp",
+        "neural-nets",
+        "neural-networks",
+        "openfaceswap"
+    ],
+    "star_url": "https://api.github.com/repos/deepfakes/faceswap/stargazers",
+    "contrib_url": "https://api.github.com/repos/deepfakes/faceswap/contributors",
+    "cur_star_page": 400,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 3001,
+    "cur_contrib_fin": 1
+}

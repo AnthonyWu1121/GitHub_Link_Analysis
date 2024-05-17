@@ -1,0 +1,24 @@
+{
+    "name": "GFPGAN",
+    "id": 349321229,
+    "readme_url": "https://github.com/TencentARC/GFPGAN/blob/master/README.md",
+    "full_name": "TencentARC/GFPGAN",
+    "stars": 34663,
+    "forks": 5720,
+    "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "topics": [
+        "deep-learning",
+        "face-restoration",
+        "gan",
+        "gfpgan",
+        "image-restoration",
+        "pytorch",
+        "super-resolution"
+    ],
+    "star_url": "https://api.github.com/repos/TencentARC/GFPGAN/stargazers",
+    "contrib_url": "https://api.github.com/repos/TencentARC/GFPGAN/contributors",
+    "cur_star_page": 348,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

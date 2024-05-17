@@ -1,0 +1,25 @@
+{
+    "name": "d2l-zh",
+    "id": 101138315,
+    "readme_url": "https://github.com/d2l-ai/d2l-zh/blob/master/README.md",
+    "full_name": "d2l-ai/d2l-zh",
+    "stars": 57045,
+    "forks": 10463,
+    "description": "\u300a\u52a8\u624b\u5b66\u6df1\u5ea6\u5b66\u4e60\u300b\uff1a\u9762\u5411\u4e2d\u6587\u8bfb\u8005\u3001\u80fd\u8fd0\u884c\u3001\u53ef\u8ba8\u8bba\u3002\u4e2d\u82f1\u6587\u7248\u88ab70\u591a\u4e2a\u56fd\u5bb6\u7684500\u591a\u6240\u5927\u5b66\u7528\u4e8e\u6559\u5b66\u3002",
+    "topics": [
+        "book",
+        "chinese",
+        "computer-vision",
+        "deep-learning",
+        "machine-learning",
+        "natural-language-processing",
+        "notebook",
+        "python"
+    ],
+    "star_url": "https://api.github.com/repos/d2l-ai/d2l-zh/stargazers",
+    "contrib_url": "https://api.github.com/repos/d2l-ai/d2l-zh/contributors",
+    "cur_star_page": 400,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 0
+}
