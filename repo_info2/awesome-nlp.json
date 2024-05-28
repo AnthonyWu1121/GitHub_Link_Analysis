@@ -1,0 +1,25 @@
+{
+    "name": "awesome-nlp",
+    "id": 47184304,
+    "readme_url": "https://github.com/keon/awesome-nlp/blob/master/README.md",
+    "full_name": "keon/awesome-nlp",
+    "stars": 16109,
+    "forks": 2558,
+    "description": ":book: A curated list of resources dedicated to Natural Language Processing (NLP)",
+    "topics": [
+        "awesome",
+        "awesome-list",
+        "deep-learning",
+        "language",
+        "machine-learning",
+        "natural-language-processing",
+        "nlp",
+        "text-mining"
+    ],
+    "star_url": "https://api.github.com/repos/keon/awesome-nlp/stargazers",
+    "contrib_url": "https://api.github.com/repos/keon/awesome-nlp/contributors",
+    "cur_star_page": 162,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 2,
+    "cur_contrib_fin": 1
+}

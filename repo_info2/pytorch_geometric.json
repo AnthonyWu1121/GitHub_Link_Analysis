@@ -1,0 +1,22 @@
+{
+    "name": "pytorch_geometric",
+    "id": 106024057,
+    "readme_url": "https://github.com/pyg-team/pytorch_geometric/blob/master/README.md",
+    "full_name": "pyg-team/pytorch_geometric",
+    "stars": 20334,
+    "forks": 3544,
+    "description": "Graph Neural Network Library for PyTorch",
+    "topics": [
+        "deep-learning",
+        "geometric-deep-learning",
+        "graph-convolutional-networks",
+        "graph-neural-networks",
+        "pytorch"
+    ],
+    "star_url": "https://api.github.com/repos/pyg-team/pytorch_geometric/stargazers",
+    "contrib_url": "https://api.github.com/repos/pyg-team/pytorch_geometric/contributors",
+    "cur_star_page": 204,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 5,
+    "cur_contrib_fin": 1
+}

@@ -1,0 +1,24 @@
+{
+    "name": "fastbook",
+    "id": 243838973,
+    "readme_url": "https://github.com/fastai/fastbook/blob/master/README.md",
+    "full_name": "fastai/fastbook",
+    "stars": 20891,
+    "forks": 8111,
+    "description": "The fastai book, published as Jupyter Notebooks",
+    "topics": [
+        "book",
+        "data-science",
+        "deep-learning",
+        "fastai",
+        "machine-learning",
+        "notebooks",
+        "python"
+    ],
+    "star_url": "https://api.github.com/repos/fastai/fastbook/stargazers",
+    "contrib_url": "https://api.github.com/repos/fastai/fastbook/contributors",
+    "cur_star_page": 209,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 2,
+    "cur_contrib_fin": 1
+}

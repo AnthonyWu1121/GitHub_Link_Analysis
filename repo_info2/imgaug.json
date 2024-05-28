@@ -1,0 +1,31 @@
+{
+    "name": "imgaug",
+    "id": 38900806,
+    "readme_url": "https://github.com/aleju/imgaug/blob/master/README.md",
+    "full_name": "aleju/imgaug",
+    "stars": 14192,
+    "forks": 2413,
+    "description": "Image augmentation for machine learning experiments.",
+    "topics": [
+        "affine-transformation",
+        "augment-images",
+        "augmentation",
+        "bounding-boxes",
+        "contrast",
+        "crop",
+        "deep-learning",
+        "heatmap",
+        "image-augmentation",
+        "images",
+        "keypoints",
+        "machine-learning",
+        "polygon",
+        "segmentation-maps"
+    ],
+    "star_url": "https://api.github.com/repos/aleju/imgaug/stargazers",
+    "contrib_url": "https://api.github.com/repos/aleju/imgaug/contributors",
+    "cur_star_page": 142,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

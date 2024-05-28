@@ -1,0 +1,31 @@
+{
+    "name": "ivy",
+    "id": 330914717,
+    "readme_url": "https://github.com/Transpile-AI/ivy/blob/master/README.md",
+    "full_name": "Transpile-AI/ivy",
+    "stars": 14027,
+    "forks": 5845,
+    "description": "The Unified AI Framework",
+    "topics": [
+        "abstraction",
+        "autograd",
+        "deep-learning",
+        "gpu",
+        "ivy",
+        "jax",
+        "machine-learning",
+        "mxnet",
+        "neural-network",
+        "numpy",
+        "python",
+        "pytorch",
+        "template",
+        "tensorflow"
+    ],
+    "star_url": "https://api.github.com/repos/Transpile-AI/ivy/stargazers",
+    "contrib_url": "https://api.github.com/repos/Transpile-AI/ivy/contributors",
+    "cur_star_page": 141,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 4,
+    "cur_contrib_fin": 1
+}

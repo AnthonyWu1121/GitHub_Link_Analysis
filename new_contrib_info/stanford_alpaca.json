@@ -1,0 +1,42 @@
+[
+    {
+        "username": "lxuechen",
+        "id": 12689993,
+        "followers_url": "https://api.github.com/users/lxuechen/followers",
+        "repositories_url": "https://api.github.com/users/lxuechen/repos",
+        "star_url": "https://api.github.com/users/lxuechen/starred{/owner}{/repo}",
+        "contributions": 19
+    },
+    {
+        "username": "rtaori",
+        "id": 6610670,
+        "followers_url": "https://api.github.com/users/rtaori/followers",
+        "repositories_url": "https://api.github.com/users/rtaori/repos",
+        "star_url": "https://api.github.com/users/rtaori/starred{/owner}{/repo}",
+        "contributions": 10
+    },
+    {
+        "username": "YannDubs",
+        "id": 24327668,
+        "followers_url": "https://api.github.com/users/YannDubs/followers",
+        "repositories_url": "https://api.github.com/users/YannDubs/repos",
+        "star_url": "https://api.github.com/users/YannDubs/starred{/owner}{/repo}",
+        "contributions": 5
+    },
+    {
+        "username": "Tiiiger",
+        "id": 19514537,
+        "followers_url": "https://api.github.com/users/Tiiiger/followers",
+        "repositories_url": "https://api.github.com/users/Tiiiger/repos",
+        "star_url": "https://api.github.com/users/Tiiiger/starred{/owner}{/repo}",
+        "contributions": 3
+    },
+    {
+        "username": "eltociear",
+        "id": 22633385,
+        "followers_url": "https://api.github.com/users/eltociear/followers",
+        "repositories_url": "https://api.github.com/users/eltociear/repos",
+        "star_url": "https://api.github.com/users/eltociear/starred{/owner}{/repo}",
+        "contributions": 1
+    }
+]

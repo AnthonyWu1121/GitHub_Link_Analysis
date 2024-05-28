@@ -1,0 +1,25 @@
+{
+    "name": "Qix",
+    "id": 18962767,
+    "readme_url": "https://github.com/ty4z2008/Qix/blob/master/README.md",
+    "full_name": "ty4z2008/Qix",
+    "stars": 14556,
+    "forks": 4671,
+    "description": "Machine Learning\u3001Deep Learning\u3001PostgreSQL\u3001Distributed System\u3001Node.Js\u3001Golang",
+    "topics": [
+        "awesome",
+        "deep-learning",
+        "distributed-computing",
+        "distributed-database",
+        "distributed-systems",
+        "go",
+        "machine-learning",
+        "postgresql"
+    ],
+    "star_url": "https://api.github.com/repos/ty4z2008/Qix/stargazers",
+    "contrib_url": "https://api.github.com/repos/ty4z2008/Qix/contributors",
+    "cur_star_page": 146,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

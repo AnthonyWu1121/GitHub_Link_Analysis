@@ -1,0 +1,30 @@
+{
+    "name": "horovod",
+    "id": 99846383,
+    "readme_url": "https://github.com/horovod/horovod/blob/master/README.md",
+    "full_name": "horovod/horovod",
+    "stars": 13997,
+    "forks": 2213,
+    "description": "Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.",
+    "topics": [
+        "baidu",
+        "deep-learning",
+        "deeplearning",
+        "keras",
+        "machine-learning",
+        "machinelearning",
+        "mpi",
+        "mxnet",
+        "pytorch",
+        "ray",
+        "spark",
+        "tensorflow",
+        "uber"
+    ],
+    "star_url": "https://api.github.com/repos/horovod/horovod/stargazers",
+    "contrib_url": "https://api.github.com/repos/horovod/horovod/contributors",
+    "cur_star_page": 140,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 2,
+    "cur_contrib_fin": 1
+}

@@ -1,0 +1,23 @@
+{
+    "name": "ML-YouTube-Courses",
+    "id": 380191749,
+    "readme_url": "https://github.com/dair-ai/ML-YouTube-Courses/blob/master/README.md",
+    "full_name": "dair-ai/ML-YouTube-Courses",
+    "stars": 14412,
+    "forks": 1730,
+    "description": "\ud83d\udcfa Discover the latest machine learning / AI courses on YouTube.",
+    "topics": [
+        "ai",
+        "data-science",
+        "deep-learning",
+        "machine-learning",
+        "natural-language-processing",
+        "nlp"
+    ],
+    "star_url": "https://api.github.com/repos/dair-ai/ML-YouTube-Courses/stargazers",
+    "contrib_url": "https://api.github.com/repos/dair-ai/ML-YouTube-Courses/contributors",
+    "cur_star_page": 145,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

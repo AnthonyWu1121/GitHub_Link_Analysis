@@ -1,0 +1,18 @@
+[
+    {
+        "username": "WZMIAOMIAO",
+        "id": 31005897,
+        "followers_url": "https://api.github.com/users/WZMIAOMIAO/followers",
+        "repositories_url": "https://api.github.com/users/WZMIAOMIAO/repos",
+        "star_url": "https://api.github.com/users/WZMIAOMIAO/starred{/owner}{/repo}",
+        "contributions": 612
+    },
+    {
+        "username": "dependabot[bot]",
+        "id": 49699333,
+        "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+        "repositories_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+        "star_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+        "contributions": 17
+    }
+]

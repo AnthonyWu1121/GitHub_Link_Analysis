@@ -1,0 +1,19 @@
+{
+    "name": "CLIP",
+    "id": 321960447,
+    "readme_url": "https://github.com/openai/CLIP/blob/master/README.md",
+    "full_name": "openai/CLIP",
+    "stars": 22731,
+    "forks": 3038,
+    "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
+    "topics": [
+        "deep-learning",
+        "machine-learning"
+    ],
+    "star_url": "https://api.github.com/repos/openai/CLIP/stargazers",
+    "contrib_url": "https://api.github.com/repos/openai/CLIP/contributors",
+    "cur_star_page": 228,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

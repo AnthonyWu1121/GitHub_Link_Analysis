@@ -1,0 +1,24 @@
+{
+    "name": "deep-learning-for-image-processing",
+    "id": 221723816,
+    "readme_url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/blob/master/README.md",
+    "full_name": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "stars": 21205,
+    "forks": 7771,
+    "description": "deep learning for image processing including classification and object-detection etc.",
+    "topics": [
+        "bilibili",
+        "classification",
+        "deep-learning",
+        "object-detection",
+        "pytorch",
+        "segmentation",
+        "tensorflow2"
+    ],
+    "star_url": "https://api.github.com/repos/WZMIAOMIAO/deep-learning-for-image-processing/stargazers",
+    "contrib_url": "https://api.github.com/repos/WZMIAOMIAO/deep-learning-for-image-processing/contributors",
+    "cur_star_page": 213,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

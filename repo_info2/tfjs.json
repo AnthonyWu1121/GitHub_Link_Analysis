@@ -1,0 +1,27 @@
+{
+    "name": "tfjs",
+    "id": 123870315,
+    "readme_url": "https://github.com/tensorflow/tfjs/blob/master/README.md",
+    "full_name": "tensorflow/tfjs",
+    "stars": 18189,
+    "forks": 1910,
+    "description": "A WebGL accelerated JavaScript library for training and deploying ML models.",
+    "topics": [
+        "deep-learning",
+        "deep-neural-network",
+        "gpu-acceleration",
+        "javascript",
+        "machine-learning",
+        "neural-network",
+        "typescript",
+        "wasm",
+        "web-assembly",
+        "webgl"
+    ],
+    "star_url": "https://api.github.com/repos/tensorflow/tfjs/stargazers",
+    "contrib_url": "https://api.github.com/repos/tensorflow/tfjs/contributors",
+    "cur_star_page": 182,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 4,
+    "cur_contrib_fin": 1
+}

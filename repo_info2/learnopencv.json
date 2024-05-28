@@ -1,0 +1,30 @@
+{
+    "name": "learnopencv",
+    "id": 30907774,
+    "readme_url": "https://github.com/spmallick/learnopencv/blob/master/README.md",
+    "full_name": "spmallick/learnopencv",
+    "stars": 20536,
+    "forks": 11503,
+    "description": "Learn OpenCV  : C++ and Python Examples",
+    "topics": [
+        "ai",
+        "computer-vision",
+        "computervision",
+        "deep-learning",
+        "deep-neural-networks",
+        "deeplearning",
+        "machine-learning",
+        "opencv",
+        "opencv-cpp",
+        "opencv-library",
+        "opencv-python",
+        "opencv-tutorial",
+        "opencv3"
+    ],
+    "star_url": "https://api.github.com/repos/spmallick/learnopencv/stargazers",
+    "contrib_url": "https://api.github.com/repos/spmallick/learnopencv/contributors",
+    "cur_star_page": 206,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

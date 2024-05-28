@@ -1,0 +1,25 @@
+{
+    "name": "stanford-cs-229-machine-learning",
+    "id": 143568533,
+    "readme_url": "https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/README.md",
+    "full_name": "afshinea/stanford-cs-229-machine-learning",
+    "stars": 17064,
+    "forks": 3866,
+    "description": "VIP cheatsheets for Stanford's CS 229 Machine Learning",
+    "topics": [
+        "cheatsheet",
+        "cs229",
+        "data-science",
+        "deep-learning",
+        "machine-learning",
+        "ml-cheatsheet",
+        "supervised-learning",
+        "unsupervised-learning"
+    ],
+    "star_url": "https://api.github.com/repos/afshinea/stanford-cs-229-machine-learning/stargazers",
+    "contrib_url": "https://api.github.com/repos/afshinea/stanford-cs-229-machine-learning/contributors",
+    "cur_star_page": 171,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

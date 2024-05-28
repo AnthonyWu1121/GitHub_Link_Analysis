@@ -1,0 +1,20 @@
+{
+    "name": "openface",
+    "id": 42586612,
+    "readme_url": "https://github.com/cmusatyalab/openface/blob/master/README.md",
+    "full_name": "cmusatyalab/openface",
+    "stars": 15026,
+    "forks": 3596,
+    "description": "Face recognition with deep neural networks.",
+    "topics": [
+        "deep-learning",
+        "face-recognition",
+        "facenet"
+    ],
+    "star_url": "https://api.github.com/repos/cmusatyalab/openface/stargazers",
+    "contrib_url": "https://api.github.com/repos/cmusatyalab/openface/contributors",
+    "cur_star_page": 151,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}
