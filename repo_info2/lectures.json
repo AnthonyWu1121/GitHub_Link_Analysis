@@ -1,0 +1,22 @@
+{
+    "name": "lectures",
+    "id": 81080671,
+    "readme_url": "https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/README.md",
+    "full_name": "oxford-cs-deepnlp-2017/lectures",
+    "stars": 15610,
+    "forks": 3584,
+    "description": " Oxford Deep NLP 2017 course",
+    "topics": [
+        "deep-learning",
+        "machine-learning",
+        "natural-language-processing",
+        "nlp",
+        "oxford"
+    ],
+    "star_url": "https://api.github.com/repos/oxford-cs-deepnlp-2017/lectures/stargazers",
+    "contrib_url": "https://api.github.com/repos/oxford-cs-deepnlp-2017/lectures/contributors",
+    "cur_star_page": 157,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

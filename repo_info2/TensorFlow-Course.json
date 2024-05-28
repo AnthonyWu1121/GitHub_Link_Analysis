@@ -1,0 +1,21 @@
+{
+    "name": "TensorFlow-Course",
+    "id": 151300862,
+    "readme_url": "https://github.com/instillai/TensorFlow-Course/blob/master/README.md",
+    "full_name": "instillai/TensorFlow-Course",
+    "stars": 16414,
+    "forks": 3205,
+    "description": ":satellite: Simple and ready-to-use tutorials for TensorFlow ",
+    "topics": [
+        "deep-learning",
+        "deep-learning-tutorial",
+        "python",
+        "tensorflow"
+    ],
+    "star_url": "https://api.github.com/repos/instillai/TensorFlow-Course/stargazers",
+    "contrib_url": "https://api.github.com/repos/instillai/TensorFlow-Course/contributors",
+    "cur_star_page": 165,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

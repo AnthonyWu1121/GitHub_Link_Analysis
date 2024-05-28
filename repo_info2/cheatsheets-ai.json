@@ -1,0 +1,24 @@
+{
+    "name": "cheatsheets-ai",
+    "id": 92287968,
+    "readme_url": "https://github.com/kailashahirwar/cheatsheets-ai/blob/master/README.md",
+    "full_name": "kailashahirwar/cheatsheets-ai",
+    "stars": 15003,
+    "forks": 3438,
+    "description": "Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5",
+    "topics": [
+        "artificial-intelligence",
+        "deep-learning",
+        "keras",
+        "machine-learning",
+        "matplotlib",
+        "numpy",
+        "scipy"
+    ],
+    "star_url": "https://api.github.com/repos/kailashahirwar/cheatsheets-ai/stargazers",
+    "contrib_url": "https://api.github.com/repos/kailashahirwar/cheatsheets-ai/contributors",
+    "cur_star_page": 151,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

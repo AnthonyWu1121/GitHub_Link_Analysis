@@ -1,0 +1,24 @@
+{
+    "name": "Dive-into-DL-PyTorch",
+    "id": 171795571,
+    "readme_url": "https://github.com/ShusenTang/Dive-into-DL-PyTorch/blob/master/README.md",
+    "full_name": "ShusenTang/Dive-into-DL-PyTorch",
+    "stars": 17878,
+    "forks": 5348,
+    "description": "\u672c\u9879\u76ee\u5c06\u300a\u52a8\u624b\u5b66\u6df1\u5ea6\u5b66\u4e60\u300b(Dive into Deep Learning)\u539f\u4e66\u4e2d\u7684MXNet\u5b9e\u73b0\u6539\u4e3aPyTorch\u5b9e\u73b0\u3002",
+    "topics": [
+        "computer-vision",
+        "d2l",
+        "deep-learning",
+        "deep-learning-tutorial",
+        "natural-language-processing",
+        "pytorch",
+        "pytorch-tutorial"
+    ],
+    "star_url": "https://api.github.com/repos/ShusenTang/Dive-into-DL-PyTorch/stargazers",
+    "contrib_url": "https://api.github.com/repos/ShusenTang/Dive-into-DL-PyTorch/contributors",
+    "cur_star_page": 179,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

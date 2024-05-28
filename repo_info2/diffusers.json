@@ -1,0 +1,30 @@
+{
+    "name": "diffusers",
+    "id": 498011141,
+    "readme_url": "https://github.com/huggingface/diffusers/blob/master/README.md",
+    "full_name": "huggingface/diffusers",
+    "stars": 23017,
+    "forks": 4746,
+    "description": "\ud83e\udd17 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.",
+    "topics": [
+        "deep-learning",
+        "diffusion",
+        "flax",
+        "hacktoberfest",
+        "image-generation",
+        "image2image",
+        "jax",
+        "latent-diffusion-models",
+        "pytorch",
+        "score-based-generative-modeling",
+        "stable-diffusion",
+        "stable-diffusion-diffusers",
+        "text2image"
+    ],
+    "star_url": "https://api.github.com/repos/huggingface/diffusers/stargazers",
+    "contrib_url": "https://api.github.com/repos/huggingface/diffusers/contributors",
+    "cur_star_page": 231,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 5,
+    "cur_contrib_fin": 1
+}

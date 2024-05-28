@@ -1,0 +1,74 @@
+[
+    {
+        "username": "JStumpp",
+        "id": 4624747,
+        "followers_url": "https://api.github.com/users/JStumpp/followers",
+        "repositories_url": "https://api.github.com/users/JStumpp/repos",
+        "star_url": "https://api.github.com/users/JStumpp/starred{/owner}{/repo}",
+        "contributions": 37
+    },
+    {
+        "username": "rlirli",
+        "id": 57397330,
+        "followers_url": "https://api.github.com/users/rlirli/followers",
+        "repositories_url": "https://api.github.com/users/rlirli/repos",
+        "star_url": "https://api.github.com/users/rlirli/starred{/owner}{/repo}",
+        "contributions": 21
+    },
+    {
+        "username": "Leonard-Plotkin",
+        "id": 9323730,
+        "followers_url": "https://api.github.com/users/Leonard-Plotkin/followers",
+        "repositories_url": "https://api.github.com/users/Leonard-Plotkin/repos",
+        "star_url": "https://api.github.com/users/Leonard-Plotkin/starred{/owner}{/repo}",
+        "contributions": 3
+    },
+    {
+        "username": "Aakash-2904",
+        "id": 90444314,
+        "followers_url": "https://api.github.com/users/Aakash-2904/followers",
+        "repositories_url": "https://api.github.com/users/Aakash-2904/repos",
+        "star_url": "https://api.github.com/users/Aakash-2904/starred{/owner}{/repo}",
+        "contributions": 1
+    },
+    {
+        "username": "etbox",
+        "id": 16815152,
+        "followers_url": "https://api.github.com/users/etbox/followers",
+        "repositories_url": "https://api.github.com/users/etbox/repos",
+        "star_url": "https://api.github.com/users/etbox/starred{/owner}{/repo}",
+        "contributions": 1
+    },
+    {
+        "username": "IndrajeetDevale",
+        "id": 36271301,
+        "followers_url": "https://api.github.com/users/IndrajeetDevale/followers",
+        "repositories_url": "https://api.github.com/users/IndrajeetDevale/repos",
+        "star_url": "https://api.github.com/users/IndrajeetDevale/starred{/owner}{/repo}",
+        "contributions": 1
+    },
+    {
+        "username": "jamesmilliman",
+        "id": 8591478,
+        "followers_url": "https://api.github.com/users/jamesmilliman/followers",
+        "repositories_url": "https://api.github.com/users/jamesmilliman/repos",
+        "star_url": "https://api.github.com/users/jamesmilliman/starred{/owner}{/repo}",
+        "contributions": 1
+    },
+    {
+        "username": "spekulatius",
+        "id": 8433587,
+        "followers_url": "https://api.github.com/users/spekulatius/followers",
+        "repositories_url": "https://api.github.com/users/spekulatius/repos",
+        "star_url": "https://api.github.com/users/spekulatius/starred{/owner}{/repo}",
+        "contributions": 1
+    },
+    {
+        "username": "joaojgabriel",
+        "id": 27141651,
+        "followers_url": "https://api.github.com/users/joaojgabriel/followers",
+        "repositories_url": "https://api.github.com/users/joaojgabriel/repos",
+        "star_url": "https://api.github.com/users/joaojgabriel/starred{/owner}{/repo}",
+        "contributions": 1
+    }
+]

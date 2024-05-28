@@ -1,0 +1,28 @@
+{
+    "name": "Machine-Learning-Tutorials",
+    "id": 42360601,
+    "readme_url": "https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md",
+    "full_name": "ujjwalkarn/Machine-Learning-Tutorials",
+    "stars": 14954,
+    "forks": 3748,
+    "description": "machine learning and deep learning tutorials, articles and other resources ",
+    "topics": [
+        "awesome",
+        "awesome-list",
+        "deep-learning",
+        "deep-learning-tutorial",
+        "deep-neural-networks",
+        "deeplearning",
+        "list",
+        "machine-learning",
+        "machinelearning",
+        "neural-network",
+        "neural-networks"
+    ],
+    "star_url": "https://api.github.com/repos/ujjwalkarn/Machine-Learning-Tutorials/stargazers",
+    "contrib_url": "https://api.github.com/repos/ujjwalkarn/Machine-Learning-Tutorials/contributors",
+    "cur_star_page": 150,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

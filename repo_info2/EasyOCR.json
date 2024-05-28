@@ -1,0 +1,32 @@
+{
+    "name": "EasyOCR",
+    "id": 247266215,
+    "readme_url": "https://github.com/JaidedAI/EasyOCR/blob/master/README.md",
+    "full_name": "JaidedAI/EasyOCR",
+    "stars": 22312,
+    "forks": 2968,
+    "description": "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
+    "topics": [
+        "cnn",
+        "crnn",
+        "data-mining",
+        "deep-learning",
+        "easyocr",
+        "image-processing",
+        "information-retrieval",
+        "lstm",
+        "machine-learning",
+        "ocr",
+        "optical-character-recognition",
+        "python",
+        "pytorch",
+        "scene-text",
+        "scene-text-recognition"
+    ],
+    "star_url": "https://api.github.com/repos/JaidedAI/EasyOCR/stargazers",
+    "contrib_url": "https://api.github.com/repos/JaidedAI/EasyOCR/contributors",
+    "cur_star_page": 224,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 2,
+    "cur_contrib_fin": 1
+}

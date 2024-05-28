@@ -1,0 +1,26 @@
+{
+    "name": "awesome-deep-learning",
+    "id": 28723659,
+    "readme_url": "https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/README.md",
+    "full_name": "ChristosChristofidis/awesome-deep-learning",
+    "stars": 23027,
+    "forks": 5969,
+    "description": "A curated list of awesome Deep Learning tutorials, projects and communities.",
+    "topics": [
+        "awesome",
+        "awesome-list",
+        "deep-learning",
+        "deep-learning-tutorial",
+        "deep-networks",
+        "face-images",
+        "machine-learning",
+        "neural-network",
+        "recurrent-networks"
+    ],
+    "star_url": "https://api.github.com/repos/ChristosChristofidis/awesome-deep-learning/stargazers",
+    "contrib_url": "https://api.github.com/repos/ChristosChristofidis/awesome-deep-learning/contributors",
+    "cur_star_page": 231,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 2,
+    "cur_contrib_fin": 1
+}
