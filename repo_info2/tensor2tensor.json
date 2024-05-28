@@ -1,0 +1,22 @@
+{
+    "name": "tensor2tensor",
+    "id": 94460704,
+    "readme_url": "https://github.com/tensorflow/tensor2tensor/blob/master/README.md",
+    "full_name": "tensorflow/tensor2tensor",
+    "stars": 14989,
+    "forks": 3427,
+    "description": "Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.",
+    "topics": [
+        "deep-learning",
+        "machine-learning",
+        "machine-translation",
+        "reinforcement-learning",
+        "tpu"
+    ],
+    "star_url": "https://api.github.com/repos/tensorflow/tensor2tensor/stargazers",
+    "contrib_url": "https://api.github.com/repos/tensorflow/tensor2tensor/contributors",
+    "cur_star_page": 150,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 3,
+    "cur_contrib_fin": 1
+}

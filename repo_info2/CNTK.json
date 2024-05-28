@@ -1,0 +1,28 @@
+{
+    "name": "CNTK",
+    "id": 46918116,
+    "readme_url": "https://github.com/microsoft/CNTK/blob/master/README.md",
+    "full_name": "microsoft/CNTK",
+    "stars": 17476,
+    "forks": 4300,
+    "description": "Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit",
+    "topics": [
+        "c-plus-plus",
+        "c-sharp",
+        "cntk",
+        "cognitive-toolkit",
+        "deep-learning",
+        "deep-neural-networks",
+        "distributed",
+        "java",
+        "machine-learning",
+        "neural-network",
+        "python"
+    ],
+    "star_url": "https://api.github.com/repos/microsoft/CNTK/stargazers",
+    "contrib_url": "https://api.github.com/repos/microsoft/CNTK/contributors",
+    "cur_star_page": 175,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 2,
+    "cur_contrib_fin": 1
+}

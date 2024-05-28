@@ -1,0 +1,29 @@
+{
+    "name": "onnx",
+    "id": 102692863,
+    "readme_url": "https://github.com/onnx/onnx/blob/master/README.md",
+    "full_name": "onnx/onnx",
+    "stars": 17002,
+    "forks": 3612,
+    "description": "Open standard for machine learning interoperability",
+    "topics": [
+        "deep-learning",
+        "deep-neural-networks",
+        "dnn",
+        "keras",
+        "machine-learning",
+        "ml",
+        "mxnet",
+        "neural-network",
+        "onnx",
+        "pytorch",
+        "scikit-learn",
+        "tensorflow"
+    ],
+    "star_url": "https://api.github.com/repos/onnx/onnx/stargazers",
+    "contrib_url": "https://api.github.com/repos/onnx/onnx/contributors",
+    "cur_star_page": 171,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 3,
+    "cur_contrib_fin": 1
+}

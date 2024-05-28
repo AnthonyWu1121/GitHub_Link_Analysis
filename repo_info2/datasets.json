@@ -1,0 +1,29 @@
+{
+    "name": "datasets",
+    "id": 250213286,
+    "readme_url": "https://github.com/huggingface/datasets/blob/master/README.md",
+    "full_name": "huggingface/datasets",
+    "stars": 18567,
+    "forks": 2535,
+    "description": "\ud83e\udd17 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
+    "topics": [
+        "computer-vision",
+        "datasets",
+        "deep-learning",
+        "hacktoberfest",
+        "machine-learning",
+        "natural-language-processing",
+        "nlp",
+        "numpy",
+        "pandas",
+        "pytorch",
+        "speech",
+        "tensorflow"
+    ],
+    "star_url": "https://api.github.com/repos/huggingface/datasets/stargazers",
+    "contrib_url": "https://api.github.com/repos/huggingface/datasets/contributors",
+    "cur_star_page": 186,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 5,
+    "cur_contrib_fin": 1
+}

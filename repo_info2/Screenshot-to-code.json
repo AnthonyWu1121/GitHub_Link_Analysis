@@ -1,0 +1,28 @@
+{
+    "name": "Screenshot-to-code",
+    "id": 107119649,
+    "readme_url": "https://github.com/emilwallner/Screenshot-to-code/blob/master/README.md",
+    "full_name": "emilwallner/Screenshot-to-code",
+    "stars": 16276,
+    "forks": 1552,
+    "description": "A neural network that transforms a design mock-up into a static website.",
+    "topics": [
+        "cnn",
+        "cnn-keras",
+        "deep-learning",
+        "encoder-decoder",
+        "floydhub",
+        "jupyter",
+        "jupyter-notebook",
+        "keras",
+        "lstm",
+        "machine-learning",
+        "seq2seq"
+    ],
+    "star_url": "https://api.github.com/repos/emilwallner/Screenshot-to-code/stargazers",
+    "contrib_url": "https://api.github.com/repos/emilwallner/Screenshot-to-code/contributors",
+    "cur_star_page": 163,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}

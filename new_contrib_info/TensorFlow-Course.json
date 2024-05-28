@@ -1,0 +1,74 @@
+[
+    {
+        "username": "astorfi",
+        "id": 13461059,
+        "followers_url": "https://api.github.com/users/astorfi/followers",
+        "repositories_url": "https://api.github.com/users/astorfi/repos",
+        "star_url": "https://api.github.com/users/astorfi/starred{/owner}{/repo}",
+        "contributions": 218
+    },
+    {
+        "username": "HisashiQ",
+        "id": 15221950,
+        "followers_url": "https://api.github.com/users/HisashiQ/followers",
+        "repositories_url": "https://api.github.com/users/HisashiQ/repos",
+        "star_url": "https://api.github.com/users/HisashiQ/starred{/owner}{/repo}",
+        "contributions": 2
+    },
+    {
+        "username": "brandonmbanks",
+        "id": 10030196,
+        "followers_url": "https://api.github.com/users/brandonmbanks/followers",
+        "repositories_url": "https://api.github.com/users/brandonmbanks/repos",
+        "star_url": "https://api.github.com/users/brandonmbanks/starred{/owner}{/repo}",
+        "contributions": 1
+    },
+    {
+        "username": "Joseph516",
+        "id": 39769420,
+        "followers_url": "https://api.github.com/users/Joseph516/followers",
+        "repositories_url": "https://api.github.com/users/Joseph516/repos",
+        "star_url": "https://api.github.com/users/Joseph516/starred{/owner}{/repo}",
+        "contributions": 1
+    },
+    {
+        "username": "MatthewLQM",
+        "id": 28488353,
+        "followers_url": "https://api.github.com/users/MatthewLQM/followers",
+        "repositories_url": "https://api.github.com/users/MatthewLQM/repos",
+        "star_url": "https://api.github.com/users/MatthewLQM/starred{/owner}{/repo}",
+        "contributions": 1
+    },
+    {
+        "username": "RayXie29",
+        "id": 24750649,
+        "followers_url": "https://api.github.com/users/RayXie29/followers",
+        "repositories_url": "https://api.github.com/users/RayXie29/repos",
+        "star_url": "https://api.github.com/users/RayXie29/starred{/owner}{/repo}",
+        "contributions": 1
+    },
+    {
+        "username": "avinassh",
+        "id": 640792,
+        "followers_url": "https://api.github.com/users/avinassh/followers",
+        "repositories_url": "https://api.github.com/users/avinassh/repos",
+        "star_url": "https://api.github.com/users/avinassh/starred{/owner}{/repo}",
+        "contributions": 1
+    },
+    {
+        "username": "brianfinkelstein",
+        "id": 43733585,
+        "followers_url": "https://api.github.com/users/brianfinkelstein/followers",
+        "repositories_url": "https://api.github.com/users/brianfinkelstein/repos",
+        "star_url": "https://api.github.com/users/brianfinkelstein/starred{/owner}{/repo}",
+        "contributions": 1
+    },
+    {
+        "username": "GalvinGao",
+        "id": 12567059,
+        "followers_url": "https://api.github.com/users/GalvinGao/followers",
+        "repositories_url": "https://api.github.com/users/GalvinGao/repos",
+        "star_url": "https://api.github.com/users/GalvinGao/starred{/owner}{/repo}",
+        "contributions": 1
+    }
+]

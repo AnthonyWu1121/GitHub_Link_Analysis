@@ -1,0 +1,98 @@
+[
+    {
+        "username": "donnemartin",
+        "id": 5458997,
+        "followers_url": "https://api.github.com/users/donnemartin/followers",
+        "repositories_url": "https://api.github.com/users/donnemartin/repos",
+        "star_url": "https://api.github.com/users/donnemartin/starred{/owner}{/repo}",
+        "contributions": 528
+    },
+    {
+        "username": "besirkurtulmus",
+        "id": 5170389,
+        "followers_url": "https://api.github.com/users/besirkurtulmus/followers",
+        "repositories_url": "https://api.github.com/users/besirkurtulmus/repos",
+        "star_url": "https://api.github.com/users/besirkurtulmus/starred{/owner}{/repo}",
+        "contributions": 2
+    },
+    {
+        "username": "amarrella",
+        "id": 1425877,
+        "followers_url": "https://api.github.com/users/amarrella/followers",
+        "repositories_url": "https://api.github.com/users/amarrella/repos",
+        "star_url": "https://api.github.com/users/amarrella/starred{/owner}{/repo}",
+        "contributions": 2
+    },
+    {
+        "username": "AnishShah",
+        "id": 3175743,
+        "followers_url": "https://api.github.com/users/AnishShah/followers",
+        "repositories_url": "https://api.github.com/users/AnishShah/repos",
+        "star_url": "https://api.github.com/users/AnishShah/starred{/owner}{/repo}",
+        "contributions": 2
+    },
+    {
+        "username": "38elements",
+        "id": 2399132,
+        "followers_url": "https://api.github.com/users/38elements/followers",
+        "repositories_url": "https://api.github.com/users/38elements/repos",
+        "star_url": "https://api.github.com/users/38elements/starred{/owner}{/repo}",
+        "contributions": 1
+    },
+    {
+        "username": "AmaanC",
+        "id": 1172631,
+        "followers_url": "https://api.github.com/users/AmaanC/followers",
+        "repositories_url": "https://api.github.com/users/AmaanC/repos",
+        "star_url": "https://api.github.com/users/AmaanC/starred{/owner}{/repo}",
+        "contributions": 1
+    },
+    {
+        "username": "incessantmeraki",
+        "id": 12898180,
+        "followers_url": "https://api.github.com/users/incessantmeraki/followers",
+        "repositories_url": "https://api.github.com/users/incessantmeraki/repos",
+        "star_url": "https://api.github.com/users/incessantmeraki/starred{/owner}{/repo}",
+        "contributions": 1
+    },
+    {
+        "username": "KaihuaHuang",
+        "id": 31960960,
+        "followers_url": "https://api.github.com/users/KaihuaHuang/followers",
+        "repositories_url": "https://api.github.com/users/KaihuaHuang/repos",
+        "star_url": "https://api.github.com/users/KaihuaHuang/starred{/owner}{/repo}",
+        "contributions": 1
+    },
+    {
+        "username": "poornas",
+        "id": 791968,
+        "followers_url": "https://api.github.com/users/poornas/followers",
+        "repositories_url": "https://api.github.com/users/poornas/repos",
+        "star_url": "https://api.github.com/users/poornas/starred{/owner}{/repo}",
+        "contributions": 1
+    },
+    {
+        "username": "ReadmeCritic",
+        "id": 15367484,
+        "followers_url": "https://api.github.com/users/ReadmeCritic/followers",
+        "repositories_url": "https://api.github.com/users/ReadmeCritic/repos",
+        "star_url": "https://api.github.com/users/ReadmeCritic/starred{/owner}{/repo}",
+        "contributions": 1
+    },
+    {
+        "username": "greninja",
+        "id": 13918201,
+        "followers_url": "https://api.github.com/users/greninja/followers",
+        "repositories_url": "https://api.github.com/users/greninja/repos",
+        "star_url": "https://api.github.com/users/greninja/starred{/owner}{/repo}",
+        "contributions": 1
+    },
+    {
+        "username": "tuanavu",
+        "id": 6547031,
+        "followers_url": "https://api.github.com/users/tuanavu/followers",
+        "repositories_url": "https://api.github.com/users/tuanavu/repos",
+        "star_url": "https://api.github.com/users/tuanavu/starred{/owner}{/repo}",
+        "contributions": 1
+    }
+]

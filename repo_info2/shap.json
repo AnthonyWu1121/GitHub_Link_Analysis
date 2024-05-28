@@ -1,0 +1,24 @@
+{
+    "name": "shap",
+    "id": 74505259,
+    "readme_url": "https://github.com/shap/shap/blob/master/README.md",
+    "full_name": "shap/shap",
+    "stars": 21818,
+    "forks": 3183,
+    "description": "A game theoretic approach to explain the output of any machine learning model.",
+    "topics": [
+        "deep-learning",
+        "explainability",
+        "gradient-boosting",
+        "interpretability",
+        "machine-learning",
+        "shap",
+        "shapley"
+    ],
+    "star_url": "https://api.github.com/repos/shap/shap/stargazers",
+    "contrib_url": "https://api.github.com/repos/shap/shap/contributors",
+    "cur_star_page": 219,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 2,
+    "cur_contrib_fin": 1
+}

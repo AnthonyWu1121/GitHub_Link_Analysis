@@ -1,0 +1,28 @@
+{
+    "name": "pytorch-CycleGAN-and-pix2pix",
+    "id": 88612945,
+    "readme_url": "https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/README.md",
+    "full_name": "junyanz/pytorch-CycleGAN-and-pix2pix",
+    "stars": 22171,
+    "forks": 6187,
+    "description": "Image-to-Image Translation in PyTorch",
+    "topics": [
+        "computer-graphics",
+        "computer-vision",
+        "cyclegan",
+        "deep-learning",
+        "gan",
+        "gans",
+        "generative-adversarial-network",
+        "image-generation",
+        "image-manipulation",
+        "pix2pix",
+        "pytorch"
+    ],
+    "star_url": "https://api.github.com/repos/junyanz/pytorch-CycleGAN-and-pix2pix/stargazers",
+    "contrib_url": "https://api.github.com/repos/junyanz/pytorch-CycleGAN-and-pix2pix/contributors",
+    "cur_star_page": 222,
+    "cur_star_fin": 1,
+    "cur_contrib_page": 1,
+    "cur_contrib_fin": 1
+}
