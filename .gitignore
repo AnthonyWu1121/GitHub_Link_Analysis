@@ -1,3 +1,4 @@
-adjacency_matrix.json
-community.ipynb
 .DS_Store
+adjacency_matrix.json
+repos.json
+users.json
